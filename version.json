@@ -1,9 +1,9 @@
 {
-  "latest": "1.4.0",
+  "latest": "1.4.2",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "The lush update: a CHORUS / PHASER section that makes Palm Life glow in time with it, a lusher Nostalgia knob, an easier-to-read font and 5 new Lush presets.",
+  "notes": "A proper Windows installer (Palm Life Setup) for new installs, plus clearer names on the display.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.4.0-Windows.zip",
-    "sha256": "d01a22df6d8bc817bca8b709003f628e85a910283a46443240499e7ec8332059"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.4.2-Windows.zip",
+    "sha256": "8357509c202a5273c3a72c420b87979ead5d43589055160aa9fc7bf1d27868ad"
   }
 }
