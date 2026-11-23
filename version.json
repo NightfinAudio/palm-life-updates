@@ -1,9 +1,9 @@
 {
-  "latest": "1.4.2",
+  "latest": "1.5.0",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "A proper Windows installer (Palm Life Setup) for new installs, plus clearer names on the display.",
+  "notes": "Easier to use: a SIMPLE view with the essentials big, a preset browser with search and favourites, a help bar, value rings on every knob, double-click to reset, and a decay-shape display.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.4.2-Windows.zip",
-    "sha256": "8357509c202a5273c3a72c420b87979ead5d43589055160aa9fc7bf1d27868ad"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.0-Windows.zip",
+    "sha256": "75ce7e1a2d5b07c6d74a406b11b5897a3800091df31f7dea385eb6f0c175ecf4"
   }
 }
