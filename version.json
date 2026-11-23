@@ -1,1 +1,9 @@
-{"latest":"1.1.0","url":"https://polar.sh/nightfin/portal","notes":"Golden Hour update: a richer, more natural reverb, a new Gate control for big 80s drums, and 32 presets sorted into categories by instrument."}
+{
+  "latest": "1.1.2",
+  "url": "https://polar.sh/nightfin/portal",
+  "notes": "One-click updates: UPDATE NOW installs new versions for you. Plus NightFin branding.",
+  "windows": {
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.1.2-Windows.zip",
+    "sha256": "ab346780a90295b8bd2224f890ba83f104610474f20a77062b05fb336cda75a6"
+  }
+}
