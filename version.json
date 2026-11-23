@@ -1,9 +1,9 @@
 {
-  "latest": "1.1.2",
+  "latest": "1.1.4",
   "url": "https://polar.sh/nightfin/portal",
   "notes": "One-click updates: UPDATE NOW installs new versions for you. Plus NightFin branding.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.1.2-Windows.zip",
-    "sha256": "ab346780a90295b8bd2224f890ba83f104610474f20a77062b05fb336cda75a6"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.1.4-Windows.zip",
+    "sha256": "bc973316ac4f153c287590ad8f2aa578e9b11375c0e1e6a75aef5c9a0a1b43c9"
   }
 }
