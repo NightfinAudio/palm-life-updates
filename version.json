@@ -1,9 +1,13 @@
 {
-  "latest": "1.6.0",
+  "latest": "1.7.2",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "More realistic hiss: choose Tape, VHS or TV. TV adds real off-air static, crackle, sync buzz and CRT whine. New preset: Late Night Rerun.",
+  "notes": "New: REWIND. Hold the button and the tape brakes, then spins backwards with a VHS squeal. Let go and it drops back in. Palm Life is now on Mac too.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.6.0-Windows.zip",
-    "sha256": "c02d3a7be65e85b3c940da4f55cc0d2c274cbb6a9eaba64371065d97b8710cb5"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.7.2-Windows.zip",
+    "sha256": "460b3c3b6ae250ddfb87d761bb00495d056741f10d594fa4553d65cc7ab53e11"
+  },
+  "mac": {
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.7.2-Mac.zip",
+    "sha256": "6e0568547bab8b37155d71937296133f50f86368cd3e9f16fe9a580d82a07867"
   }
 }
