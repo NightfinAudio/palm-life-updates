@@ -1,9 +1,9 @@
 {
-  "latest": "1.5.4",
+  "latest": "1.5.5",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "Palm Life now accepts licence keys from partner stores. Also includes the new cassette window from 1.5.3.",
+  "notes": "New NightFin badge on the faceplate. Also includes reseller key support and the new cassette window.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.4-Windows.zip",
-    "sha256": "10d427a40a428dc92c6c9163f4b95f708edb96d16382193ce96ceb13c4dd47a2"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.5-Windows.zip",
+    "sha256": "535c1156a1d60af24e87ea8cfba6c3db2ad6f317550a1eb71d0146bc4d7533d8"
   }
 }
