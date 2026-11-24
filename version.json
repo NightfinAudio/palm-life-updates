@@ -1,9 +1,9 @@
 {
-  "latest": "1.5.1",
+  "latest": "1.5.2",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "A Gate you can see: it reads in milliseconds, its light flashes when it opens, the monitor has a GATE lamp, and held notes now keep their reverb.",
+  "notes": "Sharper display: every letter on the preset screen is now drawn cleanly, so names like Empty Gymnasium read properly.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.1-Windows.zip",
-    "sha256": "57b0c534dd280ef5eee1f1f39768f8f1c1f94e3dfad5967f7c87e9a334cedd7b"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.2-Windows.zip",
+    "sha256": "834368e6abd1a442e1d7c79b7e185fb0a0d1d49d657471b268c37d2d95160633"
   }
 }
