@@ -1,13 +1,15 @@
 {
-  "latest": "1.7.2",
+  "latest": "1.8.0",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "New: REWIND. Hold the button and the tape brakes, then spins backwards with a VHS squeal. Let go and it drops back in. Palm Life is now on Mac too.",
+  "notes": "Updates are now signed by NightFin, so Palm Life only installs genuine ones. Includes REWIND and the Mac version.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.7.2-Windows.zip",
-    "sha256": "460b3c3b6ae250ddfb87d761bb00495d056741f10d594fa4553d65cc7ab53e11"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.8.0-Windows.zip",
+    "sha256": "31e9e67f367df7f118c135a556a11a67137e565476da6aa5ba28707fd9b04290",
+    "sig": "32fa86642239b9887d8eb428a724a1c5f8363720b63b35cf898462c5915bfea05e7726541c1f95c8642062eca290adc5a2c3bf73e0cfa238828386b6f504714e8e5a013b7eed55312e10279bf52a63ff255cefc9b86cf84d3fe0ae1d7ea040d6ee494dd27b0bc43aca7df7da6efd5a1edf42e1d96a32033031a344657b8f72980c4964fa00081b6c1bbed5fa1fc40f83cfc1aec94c07d94ba74bfbe416f09ec03b32faca1b4a6723631cf410277a94722d9bbee2b491935a8d7b8b143aa1e9cfdde17dea60a860fbb624899b3f5c3498d30098c4e1365b0d67e649665f8ee848720dd5b48e7849217f8cf083892f19355ffb6d76ac67771f93c171de8b51f41af57249bc96cb7f52867c5fa65b40b716aa00053d5092401ba067abe3194d24552d82a3c11922c970a6074b8b3c8d8112f031f1b4a4f3e1a3cd46e743e2be6947c54b286563297e8b30e6d4b98533caccb16996d3c17cb051ac60b6ac8990d94ee296ccf7756ef83e4128eab93a355827f84217fc656ebc2f6a8348f06c8d603c"
   },
   "mac": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.7.2-Mac.zip",
-    "sha256": "6e0568547bab8b37155d71937296133f50f86368cd3e9f16fe9a580d82a07867"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.8.0-Mac.zip",
+    "sha256": "2e5a945b9590eef08ea8d94e109da67b4e93e9131c755c6dc9b221ee6384e3f3",
+    "sig": "2bea49d72f0c2a06711b79ec51b4b43b579247c0a2d2f8633f63ef130038b479552b76e867480078d072fd370a8e1ad57c95f750b68ca47180baaa37d2f91908c56ec442ae3af23501a037b1ce26c757c2ef840158ae329ab38543f6af10b801e92284d670a3898a50ab15007faec50cd5087fc9544845f6f5d74566f42ccfbbf5138236d6494e79087bb50bf8e59fe2cebdd1c3469ab40224a43db6e90f21d1ec9d7a4e3e80761cf07e1603ebdb53b6cc59ecf1d29684ab42cbb59180a8c3995853e9f8da3a629ded50e3f33da8b143c1ac1c301cce91cd9fddb1e4807761212ab994eec9dea0d666aa886576c6c896d3edc550846d28e358312fe4e8b2f1020853a3f13cd55320a7f439898b2b28bccd1195c0c18bff022dd9324230c92bf0ebe8951660ba5226258ac0f130ae33347fc76e3f9e8798b7bb9152b80ac2ddc9a1b631827fcb08e63b083b1b8862ca17ba035652a8491fc0bb8f796f87303aadf1f4b277a62deca75e45b180a49052f9f96b6d42eed5443963c5499a1c9f3d48"
   }
 }
