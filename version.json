@@ -1,9 +1,9 @@
 {
-  "latest": "1.5.2",
+  "latest": "1.5.3",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "Sharper display: every letter on the preset screen is now drawn cleanly, so names like Empty Gymnasium read properly.",
+  "notes": "A new cassette window: real cassette proportions, your preset name written on the label, reels turning through the label window, and a tape counter with PLAY and direction lamps.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.2-Windows.zip",
-    "sha256": "834368e6abd1a442e1d7c79b7e185fb0a0d1d49d657471b268c37d2d95160633"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.3-Windows.zip",
+    "sha256": "e3cb68d532125ce7a1bcf937ef944a696a4343a5d4cdfb103699959089f73f56"
   }
 }
