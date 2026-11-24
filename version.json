@@ -1,9 +1,9 @@
 {
-  "latest": "1.5.5",
+  "latest": "1.6.0",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "New NightFin badge on the faceplate. Also includes reseller key support and the new cassette window.",
+  "notes": "More realistic hiss: choose Tape, VHS or TV. TV adds real off-air static, crackle, sync buzz and CRT whine. New preset: Late Night Rerun.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.5.5-Windows.zip",
-    "sha256": "535c1156a1d60af24e87ea8cfba6c3db2ad6f317550a1eb71d0146bc4d7533d8"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.6.0-Windows.zip",
+    "sha256": "c02d3a7be65e85b3c940da4f55cc0d2c274cbb6a9eaba64371065d97b8710cb5"
   }
 }
