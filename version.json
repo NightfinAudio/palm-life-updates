@@ -1,15 +1,15 @@
 {
-  "latest": "1.14.0",
+  "latest": "1.14.1",
   "url": "https://polar.sh/nightfin/portal",
-  "notes": "New: a dice button rolls fresh settings (Shift-click to nudge), padlocks keep any section as it is when you roll or load a preset, and a new Master Mix blends the whole effect with your dry sound (the old Mix is now Amount). Orbit gets a movable centre and a Side to side motion.",
+  "notes": "New: a dice button rolls fresh settings (Shift-click to nudge), padlocks keep any section as it is when you roll or load a preset, and a new Master Mix blends the whole effect with your dry sound (the old Mix is now Amount). Orbit gets a movable centre and a Side to side motion. 1.14.1 fixes the bottom bar, where REGISTER, BUY or UPDATE could cover THEME and SIZE.",
   "windows": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.14.0-Windows.zip",
-    "sha256": "185bab0db3edd6d110ce377afb5b535a028f50eb580b9444a56fce6ac3496dbe",
-    "sig": "0d8de7074d9ed936b73191429284464f8d6d4eccfe7fdb4725edef6140ae0d1a5b60e79e13b4127bd00b9112583226a71d8e850db5d528bf3b74a103ef8352b6d25d3d02238607b15030c1c9db51cb6cca75bb9fe90e12933099d30c009ca3a50ab598b75f0c3c984924ab77150e3f1b579e2f8f08be71fdb40f65d77136eb2bdc41465a8f7fb7575939ed062fee7eecf69956e18bb298ec58eecea8c9258c01ee75aeb00b165c063092c61f1ee8afe758374f622a08ac7e357492f6df960ae28ec36c1d95d293b1ef818bbbf5bd72d02cc6f7377108e393e3c8807687c34951b647563ec9b922a86044685c0640dc32bd344094c5422230339ff8f71a0cf9aa833f2970fbdf5533428e82b61f066deaceb4951efb035225b3e797770260a39bb2001aefa156272cfc806c3be2cc4c13e96b852a62929a5100e663f920ea4ed47c9a9d31b2131da0fd4f063b6503b6e6841c691a7621021fb4e9f8a65ff8f9cbb3e5322f8d4d7f1cb632920e076fe826823279e447cc47a41858d62ed6ca7d9a"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.14.1-Windows.zip",
+    "sha256": "e991851ca2182a93058bf09d80c1e293b65719df062f344d8f02d70332dc6f6a",
+    "sig": "02c46e0e6f20dce632ef9aefaf41e12bff7ed3909aa710ae9c04653e8feabc00e76ba7307ecc92235f05b1ed7ba24b35f2b5d2106c90d5f0dcc84f5422756eaa452b84f2b11e4ee507fe09328a68319ab435c9308fd97d268ca11b5e7a8b7e5885208a09fee54da5478fa0fa49344ae70329f9778cbe7561371d39902a943b6c63f4d68a05788f6c318c1fb83fabc079262aea1b481fb7e433030b7d18c3ab18a8f238d52e63356e5803cf622588bd6b3ebd0f22d39c44a5d686b16f6ccaa3c8097ab821b4b52ff136a76465a1eb882da62d5853c30b61ad2c9c7854b5ac045fb2ce65d95677dbda6a1308726f6955ebca5db4b5c69b6fd6f2d35052056a5fdfa3f7f8b394713fb94530dd829fbba41059a94c31292ab9d408b49220837cde98b55c316d156c167c5cdf6824dceecf1d2dc3f437e3f903b00567b787da82ab3c00f467c731214b6ac46d1fadc7b0433e2f664327afcbab8dad2ff7ad20095b3b64d2636f5cbb93735ca2b1a4da01a3b18bec849550084f42188d17a7b6396d81"
   },
   "mac": {
-    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.14.0-Mac.zip",
-    "sha256": "e15591cb0e75d93dd061b239a81a73e4af46cd81b992e83161d56afb733472bd",
-    "sig": "7aa049831dd7447963cf0a95924f313658f220b6fc2f726a8f80771f3a2d10cfa764f7be14ee2514e2b3e4ca7ccc4f45be47a770718e41e024417f8ae49a8ba421097cc58d311eee0b3bb130cb6773abc98375353eb46ee97ca8b7f72ff94b714616713a1fd400f929b9280f2ac3deec8fea850a3bafe1378523b91196602e6159878a78bf11f9092042ba0ee696ef324e48a423d7ad6eb0bb8a2b03030d65172b4743712da9a2acde951fdf5a4b788b8b9949ca10c9f0b2e6c33c7b01404cebef6ebdeaf048240fd79563adb326ea6aad6c205b3889a8052d0e98ac05eee2f6611a2c2323dfa1f39870b30c31179236d9a5390294e2a38f5e05e395ecf4d77a8849f5ebb9dcf3544e3a93dcd83507862b41f791ab926a6ee1853b23ed4969c9516dd8cc5aef57c0913b73ffe1de52721c40e4e6ca2f3774cff5b2123c19b3b88615f522b917ede5a4e18c80f8c0d26ae1d3f1841461cc86f8e679199553ffd3e7ef9cae17bfb6ff4bab1151c2a3d38b8925ed1d192bed7ed7a4de2517d88c18"
+    "zip": "https://raw.githubusercontent.com/palmermilo-ship-it/palm-life-updates/main/builds/PalmLife-1.14.1-Mac.zip",
+    "sha256": "a2a6f0450b6b1b1033fd8d59d3d298f10e624f5a7ec0d7faf17875a6e0b77de2",
+    "sig": "9164c12f0d0dcee3748e12719604de356231404b184d9de6b4c9ed4b2852556862da9a712bfb7d1475e4663b91f9c16ea1295c0805242519160814b08ce76a51ef956f5105a85f72b85dd464b7b3f49a0566957690169587438be963717689f145001ff7437f824e2dd9a232158f57cf592a1b576f58d6b49cacf74b43fdcd6d2e6d7c436dbea5e6848140e9f19125558cd4547c5f4f77984c755bd388027726b6af045077ba2d074bc7d7c8cd01cdd4264092570bf9a297d1ddbe5d96a0efb80617d739e770946f3123731093dc6b6e5260ae11f490275c80b3fb0af4ecabf9f5abffea03752dcd9cc13e1740f25fc445289b2d7aad737afbe8297b6477a2130b92eac1a9f345a9f5072bdfe28ed94e494b527bd54262d4f78cd0b6a25376825927eb377f5dc045253f3f1bb3c4ea8c7f0842b5cdacfc559995ba2a3c6af7f4bcaa6172a1f98493e90d5d9f53f8ef1a776c2b622f0f266393cc1f7f06a013f3aa855d45350e048a72322354ef286ad7fb56ccea7fb91dbe02ef3f06efd33c3e"
   }
 }
